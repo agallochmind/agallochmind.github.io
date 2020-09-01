@@ -5,7 +5,7 @@ description: GitHub-flavored docs theme for Jekyll
 theme: null
 
 nav_version: true
-edit: true
+edit: false
 addons_branch: true
 
 addons:
